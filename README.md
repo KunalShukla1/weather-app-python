@@ -35,6 +35,7 @@ Follow these steps to get the weather app up and running:
 - ** Sign up for a free account.
 
 - ** After logging in, go to the "API keys" section in your profile.
+- ** Copy your default key or create a new one.
 
 #Example Output:---
 - **Enter city: Shimla
